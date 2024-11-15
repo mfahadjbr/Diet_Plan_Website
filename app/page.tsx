@@ -34,7 +34,7 @@ export default function DietPlan() {
       {
         day: "Monday",
         breakfast: {
-          name: "Oatmeal with fruit",
+          name: "Oatmeal with fruits",
           image: "/1.jpg",
           calories: 300,
           ingredients: ["1/2 cup oats", "1 banana", "1 tbsp honey", "1/4 cup mixed berries"],
